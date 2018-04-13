@@ -1,0 +1,2 @@
+# minigiga
+Just another repository
